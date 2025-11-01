@@ -39,6 +39,6 @@
 <div>
   <a href="https://instagram.com/phaghihi_hnyh"><img src="https://img.shields.io/badge/Instagram-@haniyehfaghihi-purple?logo=instagram" /></a>
   <a href="mailto: faghihi.haniyeh1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-haniyehfaghihi-orange?logo=gmail" /></a>
-  <a href="https://t.me/phaghihi_hnyh"><img src="https://img.shields.io/badge/Telegram-@haniyehfaghihi-blue?logo=telegram" /></a>
+  <a href="https://t.me/haniyeh_fgh"><img src="https://img.shields.io/badge/Telegram-@haniyehfaghihi-blue?logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/haniyeh-faghihi/"><img src="https://img.shields.io/badge/Linkedin-arefalapour-87CEEB?logo=linkedin" /></a>
 </div>
